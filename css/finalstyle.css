@@ -1,0 +1,11 @@
+#logo {
+    height: 120px;
+}
+
+#hola {
+    display: flex;
+}
+
+.menu {
+    margin: 30px 25px;
+}
